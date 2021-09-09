@@ -13,3 +13,5 @@ Once I had the files set up, I was able to get into the class. The `data-` attri
 ## Question Two: Are you comfortable using jQueary?
 
 The first thing I noticed was that the CSS file was missing. I went and got it from Bootstrap so that the styles would be the same as the video.
+
+The rest of the class was very straight forward but I really liked how Ray commented on the end of his scripts. I often get confused about what `)}` is connected to what. So watching him do that was really helpful and I plan to implement that extra bit of effort to make my code more understandable.

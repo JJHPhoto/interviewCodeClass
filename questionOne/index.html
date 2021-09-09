@@ -1,24 +1,28 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Mastering Code</title>
-  <meta name="viewport" content="width=device-width">
-  <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Mastering Code</title>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h2>Using Data</h2>
 
-<div class="container">
-  <h2>Using Data</h2>
+      <button class="btn tooltip" data-tooltip="yi">One</button>
+      <button class="btn tooltip" data-tooltip="er" data-position="right">
+        Two
+      </button>
+      <button class="btn tooltip" data-tooltip="san" data-position="bottom">
+        Three
+      </button>
+      <button class="btn tooltip" data-tooltip="si" data-position="left">
+        Four
+      </button>
+    </div>
 
-  <button class="btn">One</button>
-  <button class="btn">Two</button>
-  <button class="btn">Three</button>
-  <button class="btn">Four</button>
-
-</div>
-
-<script src="js/script.js"></script>
-</body>
+    <script src="js/script.js"></script>
+  </body>
 </html>

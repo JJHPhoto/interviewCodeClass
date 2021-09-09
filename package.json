@@ -1,0 +1,23 @@
+{
+  "name": "interviewcodeclass",
+  "version": "1.0.0",
+  "description": "Repo for my class \"Mastering Web Developer Interview Code\" from LinkedIn Learning.",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJHPhoto/interviewCodeClass.git"
+  },
+  "author": "Joshua Haller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JJHPhoto/interviewCodeClass/issues"
+  },
+  "homepage": "https://github.com/JJHPhoto/interviewCodeClass#readme"
+}

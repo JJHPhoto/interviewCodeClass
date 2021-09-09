@@ -1,12 +1,10 @@
-let highlight = document.querySelectorAll(".tooltip");
+let highlight = document.querySelectorAll("[data-highlight-click]");
 
 highlight.forEach(function (item) {
   item.addEventListener(
     "click",
     function () {
-      if (item.dataset.highlightClick === "on") {
-        item.style.backgroundColor = "red";
-      }
+      item.style.backgroundColor = "blue";
     },
     false
   );

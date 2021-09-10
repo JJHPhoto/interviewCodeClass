@@ -13,3 +13,7 @@ Once I had the files set up, I was able to get into the class. The `data-` attri
 The first thing I noticed was that the CSS file was missing. I went and got it from Bootstrap so that the styles would be the same as the video.
 
 The rest of the class was very straight forward but I really liked how Ray commented on the end of his scripts. I often get confused about what `)}` is connected to what. So watching him do that was really helpful and I plan to implement that extra bit of effort to make my code more understandable.
+
+## Question Five: Have you used Ajax to load an external file?
+
+I remember in one of my Bootcamp projects, we used a JSON file to dynamically load images and text at the click of a button. This reminded me of that project and I really like the concept of being able to have data load this way. I had not seen the `readyState === 4` code before, so that was fun to learn about.

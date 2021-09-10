@@ -19,3 +19,5 @@ The rest of the class was very straight forward but I really liked how Ray comme
 I remember in one of my Bootcamp projects, we used a JSON file to dynamically load images and text at the click of a button. This reminded me of that project and I really like the concept of being able to have data load this way. I had not seen the `readyState === 4` code before, so that was fun to learn about.
 
 ## Question Six: Have you used JavaScript templates?
+
+I honestly didn't expect my code to work as I followed along. I thought I'd be missing a npm package or the `<%` bits weren't going to work for reasons I can't explain. Its really neat to see how this works. Now I want to see if I can use it on my own projects. I am wondering if I need to create the `ejs.js` file with my own data or if I just need to create the `data.json` file. We shall see!

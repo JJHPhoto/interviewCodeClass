@@ -1,7 +1,7 @@
-var data, result;
-var request = new XMLHttpRequest();
+let data, result;
+let request = new XMLHttpRequest();
 
-request.open('GET', 'js/data.json');
+request.open("GET", "js/data.json");
 
 request.onreadystatechange = function () {
   if (request.status === 200 && request.readyState === 4) {

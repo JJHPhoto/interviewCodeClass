@@ -1,8 +1,6 @@
-# interviewCodeClass
+# [Mastering Web Development Code](https://www.linkedin.com/learning/mastering-web-developer-interview-code-2/stay-sharp-with-web-developer-interview-code)
 
-Repo for my class "Mastering Web Developer Interview Code" from LinkedIn Learning.
-
-I really like Ray's style of teaching. I have already taken one of his ReactJS classes and this was a suggested follow up class. Really liking it right now.
+This is the repo for my class from LinkedIn Learning by Ray Villalobos. I really like Ray's style of teaching. I have already taken one of his ReactJS classes and this was a suggested follow up class. Really liking it right now. I find that writing my thoughts down on a README doc is helpful to process my code. Maybe someone else will too? Either way, this is the style of learning that I currently enjoy. I don't always have notes or comments on some of the videos but if I do they are below.
 
 ## Question One: How do you use the data- attribute in HTML?
 

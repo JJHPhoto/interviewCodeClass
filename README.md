@@ -17,3 +17,5 @@ The rest of the class was very straight forward but I really liked how Ray comme
 ## Question Five: Have you used Ajax to load an external file?
 
 I remember in one of my Bootcamp projects, we used a JSON file to dynamically load images and text at the click of a button. This reminded me of that project and I really like the concept of being able to have data load this way. I had not seen the `readyState === 4` code before, so that was fun to learn about.
+
+## Question Six: Have you used JavaScript templates?
